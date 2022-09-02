@@ -1,4 +1,4 @@
-FROM php:8.0.22-fpm-alpine
+FROM php:8.0.23-fpm-alpine
 
 ARG BUILD_DATE
 ARG BUILD_VERSION
